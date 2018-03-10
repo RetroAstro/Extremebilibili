@@ -1,0 +1,23 @@
+{
+    "name": "bilibili",
+    "version": "1.0.0",
+    "description": "Hello Koa 2",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "dependencies": {
+        "koa": "2.5.0",
+        "koa-router": "7.4.0",
+        "koa-bodyparser": "4.2.0",
+        "nunjucks": "3.1.2",
+        "mime": "2.2.0",
+        "mz": "2.7.0",
+        "koa-proxies": "0.6.2",
+        "koa-multer": "1.0.2"
+    }
+}
