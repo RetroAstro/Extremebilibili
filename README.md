@@ -1,5 +1,6 @@
 > ### Ultimate bilibili
 
+
 #### 实现功能：
 
 * #### 首页
@@ -61,7 +62,7 @@ ajax, storage, formatTime 的一些函数封装, 将常用的函数放到common.
 
 通过koa-proxies 设置本地到后端服务器的反向代理, node 处理路由, 获取一些静态资源, 并解决跨域问题, 较好的实现了前后端分离。
 
-
+> npm install   node app.js
 
 > #### 结语： 
 
